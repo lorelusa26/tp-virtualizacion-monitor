@@ -3,7 +3,7 @@
 Trabajo Práctico Integrador – Arquitectura y Sistemas Operativos
 Tecnicatura Universitaria en Programación a Distancia (UTN)
 
-**Alumna:** [Apellido, Nombre]
+**Alumna:** [Orieta,Lorena]
 **Video explicativo:** [pegar acá el enlace de YouTube]
 
 ## ¿De qué trata?
