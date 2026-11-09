@@ -8,14 +8,13 @@ Tecnicatura Universitaria en Programación a Distancia (UTN)
 
 ## ¿De qué trata?
 
-El proyecto crea una **máquina virtual (VM)** con Oracle VirtualBox y ejecuta
-dentro de ella un programa en Python que mide el uso de CPU, RAM y disco.
-El mismo programa se prueba con distintas configuraciones de recursos de la VM
-(por ejemplo 1 CPU / 1 GB de RAM y 2 CPU / 2 GB de RAM) para comprobar cómo el
-hipervisor controla lo que el sistema invitado puede usar.
+Este proyecto consiste en crear una máquina virtual utilizando Oracle VirtualBox e instalar Ubuntu como sistema operativo. Dentro de esta máquina virtual se ejecuta un programa desarrollado en Python que permite monitorear el consumo de CPU, memoria RAM y disco.
 
-El informe completo (PDF) documenta cada paso de la virtualización, para qué
-sirve y qué ventajas aporta.
+Para analizar el comportamiento de los recursos, se realizaron dos pruebas con la misma configuración de la máquina virtual: una sin carga adicional y otra generando carga de trabajo sobre el procesador durante 30 segundos.
+
+Los resultados se guardaron en archivos CSV y se representaron mediante gráficos utilizando Matplotlib. La comparación permitió observar cómo el uso de CPU aumentó hasta el 100 % durante la prueba con carga, mientras que en condiciones normales se mantuvo en valores mucho menores.
+
+El informe PDF documenta la configuración de la máquina virtual, las herramientas utilizadas, las pruebas realizadas y las conclusiones obtenidas.
 
 ## Estructura del repositorio
 
