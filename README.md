@@ -4,7 +4,7 @@
 **Tecnicatura Universitaria en Programación a Distancia – UTN**
 
 **Alumna:** Lorena Orieta  
-**Video explicativo:** [Agregar enlace de YouTube]
+**Video explicativo:** (https://youtu.be/PuXY7tCancg)
 
 ## ¿De qué trata?
 
